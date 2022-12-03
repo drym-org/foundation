@@ -10,9 +10,9 @@ Toward these aims, we agree to employ the conventions described herein.
 
 4. A file attribution/CONTRIBUTORS.md shall be maintained, to contain anyone who has made any kind of direct contribution to the project.
 
-5. A file attribution/RELATED_WORK.md shall be maintained, to contain any work that appears related to the present work, whether that is by virtue of exhibiting similar ideas or having a similar purpose, or any other connection discernible.
+5. A file attribution/ANTECEDENTS.md shall be maintained, to contain any work that appears related to the present work, whether that is by virtue of exhibiting similar ideas or having a similar purpose, or any other connection discernible.
 
-6. The repo shall maintain an issue whereby reports of antecedents and other related work are solicited. These will be added to RELATED_WORK.
+6. The repo shall maintain an issue whereby reports of antecedents and other related work are solicited. These will be added to ANTECEDENTS pending evaluation under DIA.
 
 7. Repository maintainers are responsible for recording all payments made to the project in a payments folder, within 3 days of the payment being received.
 
