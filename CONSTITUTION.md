@@ -4,7 +4,7 @@ Toward these aims, we agree to employ the conventions described herein.
 
 1. Members of the public (which may include project contributors) will engage in the process of Dialectical Inheritance Attribution to appraise the project, following any procedures that are deemed appropriate and fair that meet the twin goals of backward-looking fairness and forward-looking empowerment.
 
-2. The goal of DIA is to produce a file ATTRIBUTIONS.txt representing the proportions of aggregate historical value in the repository contributed by each person. These proportions must total to 100%.
+2. The goal of DIA is to produce a file ATTRIBUTIONS.txt representing the proportions of aggregate historical value in the repository contributed by each person. These proportions must total to 100%. Alongside this, the process should also produce a file ATTRIBUTIONS-RATIONALE.txt that contains a log of the rationale and procedures followed, including referenced clauses in the founding documents where possible. This allows the possibility of revision in case of errors or in the interests of "backpropagation" of future standards (elaborated in the attribution model).
 
 3. In addition, DIA must produce VALUATION.txt and PRICE.txt that contain the appraisal of total value in the project and a fair market price, respectively.
 
