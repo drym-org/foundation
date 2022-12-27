@@ -33,3 +33,19 @@ Toward these aims, we agree to employ the conventions described herein.
 15. When voluntary payments are made to the project, contributors should be paid their share of contributions within 3 days. If these payments have not been initiated within this time, the project will be considered to be in default.
 
 16. This constitution and other founding documents may be amended through a collective process subject to agreement.
+
+17. A congress to conduct DIA must be held for a project following ABE within 30 days of its receiving its first payment. This may be a congress organized specifically for the project, or it may be a congress already planned for which the project may be added to the docket. The results of this initial congress apply to any payments already received by the project up to that point, in addition to subsequent payments.
+
+18. There must be at least three people present at a DIA congress.
+
+19. For each project on the docket at a DIA congress, if less than a third of attendees present are unaffiliated with it, then that project is ineligible to be considered. There is no requirement for people affiliated with the project to be present.
+
+20. If there are prior resolutions that anyone believes need to be reviewed, they should submit their notes for inclusion in the docket entry for that project at the next congress.
+
+21. For any prior resolution identified for review in advance of the congress, an effort should be made to invite the participants to that resolution to attend the congress. Their participation is not mandatory.
+
+22. The conclusions of the most recent congress take precedence over all previous congresses, and any revisions of previous resolutions (as opposed to fresh resolutions) "backpropagate" as described in the attribution model.
+
+23. A project must be appraised at an ABE congress at least once a quarter. In the interim, nontrivial contributions to the project should be accompanied by relative appraisal and renormalization to arrive at a provisional appraisal. These should be honored until DIA is conducted.
+
+24. The docket for a congress must be finalized at least two weeks in advance of the congress, to leave sufficient time for attendees to learn about the projects being appraised and come prepared. Notes on docket items, along with any other supporting materials, may continue to be added until the congress is held.
