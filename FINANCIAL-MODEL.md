@@ -14,6 +14,6 @@ This document describes the financial model employed in Attribution-Based Econom
 
 7. Any payment made to the project will be considered in relation to the fair market price at the time of the payment. If the total payment by the payer up to that point is less than or equal to the fair market price, it will be treated as compensation. If the total payment exceeds the price, it will be treated as an "investment."
 
-8. Investments are attributable in terms of the current valuation at the time of the payment. The proportion of the valuation represented by the investment component of the payment entitles the payer to that proportion of attributable value in the project, and this should be reflected in the ATTRIBUTIONS file _after_ the distributions have been paid out from the payment according to the a priori attribution proportions.
+8. Investments increase the valuation by an equal amount and thus result in "dilution" of all attributions.
 
-9. Investments also increase the valuation by an equal amount and thus result in "dilution" of all attributions.
+9. Investments are attributable in terms of the diluted valuation as a consequence of the payment. The proportion of the valuation represented by the investment component of the payment entitles the payer to that proportion of attributable value in the project, and this should be reflected in the ATTRIBUTIONS file _after_ the distributions have been paid out from the payment according to the a priori attribution proportions.
