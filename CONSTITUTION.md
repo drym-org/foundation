@@ -42,12 +42,12 @@ Toward these aims, we agree to employ the conventions described herein.
 
 20. Any gathering that meets these requirements for a congress may be considered a congress and may conduct official deliberations upon invoking this constitution.
 
-20. If there are prior resolutions that anyone believes need to be reviewed, they should submit their notes for inclusion in the docket entry for that project at the next congress.
+21. If there are prior resolutions that anyone believes need to be reviewed, they should submit their notes for inclusion in the docket entry for that project at the next congress.
 
-21. For any prior resolution identified for review in advance of the congress, an effort should be made to invite the participants to that resolution to attend the congress. Their participation is not mandatory.
+22. For any prior resolution identified for review in advance of the congress, an effort should be made to invite the participants to that resolution to attend the congress. Their participation is not mandatory.
 
-22. The conclusions of the most recent congress take precedence over all previous congresses, and any revisions of previous resolutions (as opposed to fresh resolutions) "backpropagate" as described in the attribution model.
+23. The conclusions of the most recent congress take precedence over all previous congresses, and any revisions of previous resolutions (as opposed to fresh resolutions) "backpropagate" as described in the attribution model.
 
-23. A project must be appraised at an ABE congress at least once a quarter. In the interim, nontrivial contributions to the project should be accompanied by relative appraisal and renormalization to arrive at a provisional appraisal. These should be honored until DIA is conducted.
+24. A project must be appraised at an ABE congress at least once a quarter. In the interim, nontrivial contributions to the project should be accompanied by relative appraisal and renormalization to arrive at a provisional appraisal. These should be honored until DIA is conducted.
 
-24. The docket for a congress must be finalized at least two weeks in advance of the congress, to leave sufficient time for attendees to learn about the projects being appraised and come prepared. Notes on docket items, along with any other supporting materials, may continue to be added until the congress is held.
+25. The docket for a congress must be finalized at least two weeks in advance of the congress, to leave sufficient time for attendees to learn about the projects being appraised and come prepared. Notes on docket items, along with any other supporting materials, may continue to be added until the congress is held.
