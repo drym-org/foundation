@@ -38,7 +38,7 @@ Toward these aims, we agree to employ the conventions described herein.
 
 18. There must be at least three people present at a DIA congress.
 
-19. For each project on the docket at a DIA congress, if less than a third of attendees present are unaffiliated with it, then that project is ineligible to be considered. At least one person affiliated with the project must be present.
+19. For each project on the docket at a DIA congress, if less than a third of attendees present are unaffiliated with it, then that project is ineligible to be considered. At least one person affiliated with the project must be present or, if none will be present, the project members must endorse consideration of their project at the congress.
 
 20. Any gathering that meets these requirements for a congress may be considered a congress and may conduct official deliberations upon invoking this constitution.
 
