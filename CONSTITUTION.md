@@ -40,6 +40,8 @@ Toward these aims, we agree to employ the conventions described herein.
 
 19. For each project on the docket at a DIA congress, if less than a third of attendees present are unaffiliated with it, then that project is ineligible to be considered. At least one person affiliated with the project must be present.
 
+20. Any gathering that meets these requirements for a congress may be considered a congress and may conduct official deliberations upon invoking this constitution.
+
 20. If there are prior resolutions that anyone believes need to be reviewed, they should submit their notes for inclusion in the docket entry for that project at the next congress.
 
 21. For any prior resolution identified for review in advance of the congress, an effort should be made to invite the participants to that resolution to attend the congress. Their participation is not mandatory.
