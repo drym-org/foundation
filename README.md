@@ -7,13 +7,18 @@ This repository contains founding documents for Attribution-Based Economics. The
 
 # Supporting this Project
 
-Please make any financial contributions by Venmo to ``@Sid-K`` and mention "Foundation" in your message.
+Please make any financial contributions in one of the following ways:
 
-This project follows Attribution-Based Economics as described in [drym-org/foundation](https://github.com/drym-org/foundation). Any financial contributions will be distributed to contributors and antecedents as agreed-upon in a collective process that anyone may participate in. To see the current distributions, take a look at [abe/attributions.txt](https://github.com/drym-org/old-abe/blob/main/abe/attributions.txt). To see payments made into and out of the project, see the [abe](https://github.com/drym-org/old-abe/blob/main/abe/) folder.
+- by Venmo to ``@Sid-K``
+- by Paypal to skasivaj at gmail dot com
 
-Additionally, some portion of your voluntary payment could be treated as an investment, entitling you to a share in future revenues, including payments made in the future or attributive revenue from other projects.
+Please mention "Foundation" in your message.
 
-NOTE: This project is now accepting voluntary payments, and will distribute them according to ABE guidelines starting on Jan 1, 2023, to leave enough time to come up with attribution proportions and other community appraisal.
+This project follows Attribution-Based Economics as described in [drym-org/foundation](https://github.com/drym-org/foundation). Any financial contributions will be distributed to contributors and antecedents as agreed-upon in a collective process that anyone may participate in. To see the current distributions, take a look at [abe/attributions.txt](https://github.com/drym-org/old-abe/blob/main/abe/attributions.txt). To see payments made into and out of the project, see the [abe](https://github.com/drym-org/old-abe/blob/main/abe/) folder. If your payment is not reflected there within 3 days, or if you would prefer it, you are welcome to submit an issue or pull request to report the payment yourself -- all payments into and out of the repository are to be publicly reported (but may be anonymized if desired).
+
+Additionally, some portion of your voluntary payment could be treated as an investment, entitling you to a share in future revenues, including payments made to the project in the future or attributive revenue from other projects.
+
+NOTE: This project is accepting voluntary payments, and will distribute them according to ABE guidelines specified in the constitution. In particular, it may take up to 30 days to distribute the initial payments if DIA has not already been conducted for this project. After that, payments will be distributed to contributors (including investors) biweekly.
 
 # Non-Ownership
 
