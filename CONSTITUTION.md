@@ -30,7 +30,7 @@ Toward these aims, we agree to employ the conventions described herein.
 
 14. Work done towards attribution shall be entitled to 5% of the value of the project, incentivizing participation in fairly and comprehensively identifying and recognizing antecedents.
 
-15. When voluntary payments are made to the project, contributors should be paid their share of contributions biweekly (i.e. every other week) on a designated day of the week. If these payments have not been initiated within 3 days of the designated day, the project will be considered to be in default.
+15. When voluntary payments are made to the project, contributors should be paid their full outstanding balance biweekly (i.e. every other week) on a designated day of the week. If these payments have not been initiated within 3 days of the designated day, the project will be considered to be in default.
 
 16. This constitution and other founding documents may be amended through a collective process subject to agreement.
 
