@@ -20,9 +20,11 @@ Toward these aims, we agree to employ the conventions described herein.
 
 9. Projects that are in default are no longer eligible to receive payments from other ABE projects until the issues are resolved.
 
-10. Payments held on behalf of upstream projects shall be fairly reinvested in the system -- that is, according to the present proportions of aggregate value represented by all of the projects in the system.
+10A. Upstream projects are only eligible to receive payments owed to them once they adopt ABE, upon completion of DIA.
 
-11. Payments owed to upstream projects are immutable in the sense that they are considered to be facts. If these projects do not claim them for whatever reason, they will be reinvested, but the project's entitlement remains unaffected, and is eligible to be fulfilled by the system at a future date as soon as it becomes possible to do so.
+10B. Payments held on behalf of upstream projects shall be fairly reinvested in the current project -- that is, according to the present attributions -- until the upstream share reaches zero.
+
+11. Payments owed to upstream projects are immutable in the sense that they are considered to be facts. If a project cannot be paid for any reason, the balance owed to them will be reinvested, but the project's entitlement remains unaffected and is eligible to be fulfilled by the system at a future date as soon as it becomes possible to do so.
 
 12. Projects in default may be negatively attributed, so that some portion of the payments owed to them will be fairly reinvested.
 
