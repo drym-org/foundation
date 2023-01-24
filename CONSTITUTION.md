@@ -14,6 +14,8 @@ Toward these aims, we agree to employ the conventions described herein.
 
 8. Those who contribute to a project should ensure that their payment is reflected in the payments folder and could submit the necessary change for consideration, themselves. If the payment does not appear there in the allotted time, they should create an issue tagged "unrecorded payment," and repository maintainers have one week to resolve it. If it is unresolved in this time, the project will be considered to be "in default."
 
+8B. Payments to projects must be recorded in the order they are received so that they are accounted using the correct current values of attributions, valuation and price. In order to ensure this, a single person shall be put in charge of recording payments.
+
 9. Projects that are in default are no longer eligible to receive payments from other ABE projects until the issues are resolved.
 
 10A. Upstream projects are only eligible to receive payments owed to them once they adopt ABE, upon completion of DIA.
