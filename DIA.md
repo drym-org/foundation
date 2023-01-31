@@ -12,13 +12,11 @@
 
 6. Repeat steps 1-4 for all _ideas_ exhibited by the project. The descriptions should be minimally self-contained, as before. As you will likely think of these ideas in a "top down" fashion, i.e. high level ideas followed by more specific ideas, it would be most helpful to write down this tree representation of these ideas as you see them reflected in your project. Commit this as abe/ideas.md.
 
-# For congress attendees
+# For congress participants
 
-## Before the congress
+## Analyze
 
-### Construct Trees
-
-1. On your own, analyze the project's anonymized labor contributions and organize them into a tree where the leaf nodes are the actual elements of the original list, and higher-level nodes represent groupings of the lower-level nodes.
+1. On your own, analyze the project's anonymized labor contributions and organize them into a tree that you feel is representative, where the leaf nodes are the actual elements of the original list, and higher-level nodes represent groupings of the lower-level nodes.
 
 2. Repeat for the project's anonymized capital contributions.
 
@@ -26,11 +24,9 @@
 
 4. Share your analysis with the other attendees.
 
-## At the congress
+## Agree on Analysis and Antecedents
 
-### Agree on Trees
-
-1. Discuss to reconcile the different analyses to agree on one labor tree that decomposes the project in a way that accounts for all of the different labor analyses.
+1. As a group, discuss to reconcile the different analyses to agree on one labor tree that decomposes the project in a way that accounts for all of the different labor analyses.
 
 2. Repeat step 1 for the capital tree.
 
@@ -44,19 +40,23 @@
 
 7. For each identified antecedent remaining on the ideas tree (including cognates), migrate it so that it annotates a leaf node (or many leaf nodes) in the tree rather than a higher-level node. If no appropriate leaf node exists, agree on a new one and then attach the antecedent to it.
 
-8. For each leaf node in the ideas tree, create a child node for each listed antecedent.
-
-### Appraisal
+## Appraise
 
 1. On your own, starting at the highest level node, appraise the proportion of value contributed by each labor component (the total on all of the edges leading into a component must equal 100%).
 
-2. When everyone is done, share your analysis with the group.
+2. Repeat (1) for the capital analysis.
 
-3. Discuss to reconcile the different analyses to agree on one appraisal that apportions value in the project in a way that accounts for all of the different analyses.
+3. Repeat (1) for the project's ideas tree.
 
-4. Repeat steps 1-3 for the project's capital tree.
+4. Share your appraisals with the group.
 
-5. Repeat steps 1-3 for the project's ideas tree, treating the antecedent nodes on the idea leaves as if they were ideas.
+## Agree on Appraisals
+
+1. Discuss to reconcile the different analyses to agree on one appraisal that apportions value in the project in a way that accounts for all of the different analyses.
+
+2. Repeat (1) for the project's capital tree.
+
+3. Repeat (1) for the project's ideas tree, distributing each idea leaf's value evenly over its antecedents.
 
 ### Reconcile the Appraisals
 
