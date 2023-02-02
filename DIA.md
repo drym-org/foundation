@@ -14,7 +14,7 @@
 
 # For congress participants
 
-## Analyze
+## 1 Analyze
 
 1. On your own, analyze the project's anonymized labor contributions and organize them into a tree that you feel is representative, where the leaf nodes are the actual elements of the original list, and higher-level nodes represent groupings of the lower-level nodes.
 
@@ -24,7 +24,7 @@
 
 4. Share your analysis with the other attendees.
 
-## Agree on Analysis and Antecedents
+## 2 Agree on Analysis and Antecedents
 
 1. As a group, discuss to reconcile the different analyses to agree on one labor tree that decomposes the project in a way that accounts for all of the different labor analyses.
 
@@ -40,7 +40,7 @@
 
 7. For each identified antecedent remaining on the ideas tree (including cognates), migrate it so that it annotates a leaf node (or many leaf nodes) in the tree rather than a higher-level node. If no appropriate leaf node exists, agree on a new one and then attach the antecedent to it.
 
-## Appraise
+## 3 Appraise
 
 1. On your own, starting at the highest level node, appraise the proportion of value contributed by each labor component (the total on all of the edges leading into a component must equal 100%).
 
@@ -50,7 +50,7 @@
 
 4. Share your appraisals with the group.
 
-## Agree on Appraisals
+## 4 Agree on Appraisals
 
 1. Discuss to reconcile the different labor appraisals to agree on one appraisal that apportions value in the project in a way that accounts for all of the different appraisals.
 
@@ -58,11 +58,11 @@
 
 3. Repeat (1) for the project's ideas tree, distributing each idea leaf's value evenly over its antecedents.
 
-## Reconcile the Appraisals
+## 5 Reconcile the Appraisals
 
 Discuss to assign weights to each appraisal tree. Consider using the 1-N-N² rule -- that is, if labor is worth K, then capital is worth 1/N × K, and ideas are worth 1/N² × K, for some "scaling factor" N that you agree on. The rationale is that we want labor, capital and ideas to be equally valuable when aggregated over all projects. Since labor is the least portable while ideas are the most portable, this rule models the fluidity of these categories as, roughly, "for every project you directly work on, N projects will use your work, and N² projects will be inspired by it." Note, nevertheless, that the ideas analysis described elsewhere in this document is not in terms of "inspiration" (implying causation) but only similarity.
 
-## Deanonymize and Tally
+## 6 Deanonymize and Tally
 
 1. "Deanonymize" – connect each leaf node in the appraised labor tree to a single contributor in the original non-anonymous list prepared by core project contributors.
 
