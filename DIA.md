@@ -32,7 +32,7 @@
 
 3. Repeat step 1 for the ideas tree.
 
-## 2 Identify Antecedents
+## 3 Identify Antecedents
 
 1. As a group, annotate each _leaf_ idea in the agreed-upon ideas tree with any projects that you can think of, that is, projects exhibiting that idea or a similar idea. These projects need not have any other relationship to the present project besides common ideas, and these should be recorded with no consideration to temporality (i.e. whether the project came before or after the present one). Projects may appear on any number of leaf ideas.
 
@@ -40,7 +40,7 @@
 
 3. Identify projects in the annotated ideas tree that were announced more than a year after the present project, and write those down as a list of identified "subsequents," removing them from the annotated ideas tree.
 
-## 3 Appraise
+## 4 Appraise
 
 1. On your own, starting at the highest level node, appraise the proportion of value contributed by each labor component (the total on all of the edges leading into a component must equal 100%).
 
@@ -50,7 +50,7 @@
 
 4. Share your appraisals with the group.
 
-## 4 Agree on Appraisals
+## 5 Agree on Appraisals
 
 1. Discuss to reconcile the different labor appraisals to agree on one appraisal that apportions value in the project in a way that accounts for all of the different appraisals.
 
@@ -58,11 +58,11 @@
 
 3. Repeat (1) for the project's ideas tree, distributing each idea leaf's value evenly over its antecedents.
 
-## 5 Reconcile the Appraisals
+## 6 Reconcile the Appraisals
 
 Discuss to assign weights to each appraisal tree. Consider using the 1-N-N² rule -- that is, if labor is worth K, then capital is worth 1/N × K, and ideas are worth 1/N² × K, for some "scaling factor" N that you agree on. The rationale is that we want labor, capital and ideas to be equally valuable when aggregated over all projects. Since labor is the least portable while ideas are the most portable, this rule models the fluidity of these categories as, roughly, "for every project you directly work on, N projects will use your work, and N² projects will be inspired by it." Note, nevertheless, that the ideas analysis described elsewhere in this document is not in terms of "inspiration" (implying causation) but only similarity.
 
-## 6 Deanonymize and Tally
+## 7 Deanonymize and Tally
 
 1. "Deanonymize" – connect each leaf node in the appraised labor tree to a single contributor in the original non-anonymous list prepared by core project contributors.
 
