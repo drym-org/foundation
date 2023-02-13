@@ -24,7 +24,7 @@
 
 4. Share your analysis with the other attendees.
 
-## 2 Agree on Analysis and Antecedents
+## 2 Agree on Analysis
 
 1. As a group, discuss to reconcile the different analyses to agree on one labor tree that decomposes the project in a way that accounts for all of the different labor analyses.
 
@@ -32,13 +32,13 @@
 
 3. Repeat step 1 for the ideas tree.
 
-4. As a group, annotate each idea in the agreed-upon ideas tree with any projects that anyone can think of, that is, projects exhibiting that idea or a similar idea. These projects need not have any other relationship to the present project besides common ideas, and these should be recorded with no consideration to temporality (i.e. whether the project came before or after the present one).
+## 2 Identify Antecedents
 
-5. Identify projects in the annotated ideas tree that were announced within a year (on either side) of the present project, and write those down as a list of identified "cognates," retaining them on the annotated ideas tree. These will be treated in the same way as true antecedents.
+1. As a group, annotate each _leaf_ idea in the agreed-upon ideas tree with any projects that you can think of, that is, projects exhibiting that idea or a similar idea. These projects need not have any other relationship to the present project besides common ideas, and these should be recorded with no consideration to temporality (i.e. whether the project came before or after the present one). Projects may appear on any number of leaf ideas.
 
-6. Identify projects in the annotated ideas tree that were announced more than a year after the present project, and write those down as a list of identified "postcedents," removing them from the annotated ideas tree.
+2. Identify projects in the annotated ideas tree that were announced within a year (on either side) of the present project, and write those down as a list of identified "cognates," retaining them on the annotated ideas tree. These will be treated in the same way as true antecedents.
 
-7. For each identified antecedent remaining on the ideas tree (including cognates), migrate it so that it annotates a leaf node (or many leaf nodes) in the tree rather than a higher-level node. If no appropriate leaf node exists, agree on a new one and then attach the antecedent to it.
+3. Identify projects in the annotated ideas tree that were announced more than a year after the present project, and write those down as a list of identified "subsequents," removing them from the annotated ideas tree.
 
 ## 3 Appraise
 
@@ -70,4 +70,4 @@ Discuss to assign weights to each appraisal tree. Consider using the 1-N-N² rul
 
 3. Sum up the proportions by leaf nodes across all appraisal trees, weighted by the scaling factor for each tree (i.e. in the manner decided upon in "reconcile the appraisals"), to arrive at the final attributive proportions that total to 100%. Deliver this as an abe/ATTRIBUTIONS.txt file in the project repository.
 
-4. Deliver the list of cognates and postcedents as abe/cognates.txt and abe/postcedents.txt, respectively, to be committed to the project repository.
+4. Deliver the list of cognates and subsequents as abe/cognates.txt and abe/subsequents.txt, respectively, to be committed to the project repository.
