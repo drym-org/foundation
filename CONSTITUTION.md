@@ -34,7 +34,7 @@ Toward these aims, we agree to employ the conventions described herein.
 
 16. This constitution and other founding documents may be amended through a collective process subject to agreement.
 
-17. A congress to conduct DIA must be held for a project following ABE within 30 days of its receiving its first payment. This may be a congress organized specifically for the project, or it may be a congress already planned for which the project may be added to the docket. The results of this initial congress apply to any payments already received by the project up to that point, in addition to subsequent payments.
+17. A congress to conduct DIA must be solicited for a project following ABE within 30 days of its receiving its first payment, and must be completed within one quarter (three months). This may be a congress organized specifically for the project, or it may be a congress already planned for which the project may be added to the docket. The results of this initial congress apply to any payments already received by the project up to that point, in addition to subsequent payments.
 
 18. There must be at least three people present at a DIA congress.
 
