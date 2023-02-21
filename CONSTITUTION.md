@@ -1,3 +1,5 @@
+**This document is to be considered a DRAFT until it is formally ratified.**
+
 We seek to put in place a new economic system achieving the goals of fair recognition of value and fair empowerment, efficiency in the use of resources both tangible and intangle, and alignment of interests at every level of social interaction, in order to achieve a stable, scalable, creative, peaceful, and kind world.
 
 Toward these aims, we agree to employ the conventions described herein.
