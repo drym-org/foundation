@@ -10,19 +10,19 @@ Toward these aims, we agree to employ the conventions described herein.
 
 3. In addition, DIA must produce VALUATION.txt and PRICE.txt that contain the appraisal of total value in the project and a fair market price, respectively. These too should have accompanying VALUATION-RATIONALE.txt and PRICE-RATIONALE.txt files explaining the rationale and procedures followed and any referenced clauses in the founding documents.
 
-6. The repo shall maintain an issue whereby reports of antecedents and other related work are solicited. These shall inform the process of DIA.
+4. The repo shall maintain an issue whereby reports of antecedents and other related work are solicited. These shall inform the process of DIA.
 
-7. Repository maintainers are responsible for recording all payments made to the project in a payments folder, within 3 days of the payment being received.
+5. Repository maintainers are responsible for recording all payments made to the project in a payments folder, within 3 days of the payment being received.
 
-8. Those who contribute to a project should ensure that their payment is reflected in the payments folder and could submit the necessary change for consideration, themselves. If the payment does not appear there in the allotted time, they should create an issue tagged "unrecorded payment," and repository maintainers have one week to resolve it. If it is unresolved in this time, the project will be considered to be "in default."
+6. Those who contribute to a project should ensure that their payment is reflected in the payments folder and could submit the necessary change for consideration, themselves. If the payment does not appear there in the allotted time, they should create an issue tagged "unrecorded payment," and repository maintainers have one week to resolve it. If it is unresolved in this time, the project will be considered to be "in default."
 
-8B. Payments to projects must be recorded in the order they are received so that they are accounted using the correct current values of attributions, valuation and price. In order to ensure this, a single person shall be put in charge of recording payments.
+7. Payments to projects must be recorded in the order they are received so that they are accounted using the correct current values of attributions, valuation and price. In order to ensure this, a single person shall be put in charge of recording payments.
 
-9. Projects that are in default are no longer eligible to receive payments from other ABE projects until the issues are resolved.
+8. Projects that are in default are no longer eligible to receive payments from other ABE projects until the issues are resolved.
 
-10A. Upstream projects are only eligible to receive payments owed to them once they adopt ABE, upon completion of DIA.
+9. Upstream projects are only eligible to receive payments owed to them once they adopt ABE, upon completion of DIA.
 
-10B. Payments held on behalf of upstream projects shall be fairly reinvested in the current project -- that is, according to the present attributions -- until the upstream share reaches zero.
+10. Payments held on behalf of upstream projects shall be fairly reinvested in the current project -- that is, according to the present attributions -- until the upstream share reaches zero.
 
 11. Payments owed to upstream projects are immutable in the sense that they are considered to be facts. If a project cannot be paid for any reason, the balance owed to them will be reinvested, but the project's entitlement remains unaffected and is eligible to be fulfilled by the system at a future date as soon as it becomes possible to do so.
 
