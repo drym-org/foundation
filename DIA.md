@@ -2,7 +2,7 @@
 
 1. Analyze the project and write down all _labor_ contributions and who made them. This is just everything you can think of that anyone ever did in the vicinity of the project. Write these down as "X did Y" where X is the name of the person and Y is what they did. The descriptions should be minimally self-contained so as to convey the relevance of the contribution to an informed layperson.
 
-2. Share this list with other contributors and community members to get broad agreement that it is comprehensive.
+2. Share this list with other contributors and community members to solicit input until there is broad agreement that it is comprehensive.
 
 3. Commit this list into the project repository at abe/labor.md.
 
