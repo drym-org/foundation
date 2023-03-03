@@ -4,7 +4,7 @@
 
 2. Share this list with other contributors and community members to solicit input until there is broad agreement that it is comprehensive.
 
-3. Commit this list into the project repository at abe/labor.md. Record a unique identifier (such as a commit hash) for the last contribution on the main line of development that is accounted for in the file, i.e. that the list is "current up to." The chosen contribution need not be the more recent one made, but all contributions preceding the chosen one must be accounted for and there should be no gaps of unaccounted contributions.
+3. Commit this list into the project repository at abe/labor.md. Record a unique identifier (such as a commit hash) for the last contribution on the main line of development that is accounted for in the file, i.e. that the list is "current up to." The chosen contribution need not be the most recent one made, but all contributions preceding the chosen one must be accounted for and there should be no gaps of unaccounted contributions.
 
 4. Create another file abe/labor-anonymized.md containing the same line items but restated in passive voice without contributor names (e.g. "Y was done" instead of "X did Y").
 
