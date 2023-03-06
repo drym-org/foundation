@@ -26,6 +26,8 @@ Toward these aims, we agree to employ the conventions described herein.
 
 11. Payments owed to upstream projects are immutable in the sense that they are considered to be facts. If a project cannot be paid for any reason, the balance owed to them will be reinvested, but the project's entitlement remains unaffected and is eligible to be fulfilled by the system at a future date as soon as it becomes possible to do so.
 
+11b. Contributors must be notified when amounts owed to them are eligible to be paid.
+
 12. Projects in default may be negatively attributed, so that some portion of the payments owed to them will be fairly reinvested.
 
 13. Maintainers must record all payments made to contributors in a payouts folder, within 7 days of making the payment, to ensure that reported balances are kept current.
