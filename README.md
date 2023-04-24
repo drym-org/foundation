@@ -1,3 +1,5 @@
+[![Docs](https://img.shields.io/badge/docs-foundation-blue)](https://drym-org.github.io/foundation/)
+
 This repository contains founding documents for Attribution-Based Economics. These include:
 
 1. The Constitution, which describes high level goals and practices to be followed.
