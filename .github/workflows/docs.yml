@@ -15,7 +15,7 @@ defaults:
 jobs:
   deploy-docs:
     runs-on: ubuntu-latest
-    name: Build and deploy financial model documentation
+    name: Build and deploy ABE documentation
     steps:
       - name: Checkout
         uses: actions/checkout@master
@@ -33,7 +33,7 @@ jobs:
       - name: Push to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
-          folder: finance/output
+          folder: output
           branch: gh-pages
           clean: true
           clean-exclude: benchmarks

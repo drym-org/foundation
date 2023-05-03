@@ -13,9 +13,8 @@ install:
 remove:
 	raco pkg remove $(PACKAGE-NAME)
 
-# TODO: change destination and modify the docs workflow too
 build:
-	scribble --htmls --dest ./finance/ --dest-name output foundation.scrbl
+	scribble --htmls --dest-name output foundation.scrbl
 
 view: build
 	open finance/output/index.html
