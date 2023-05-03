@@ -18,6 +18,6 @@ build:
 	scribble --htmls --dest-name output foundation.scrbl
 
 view: build
-	open finance/output/index.html
+	open output/index.html
 
 .PHONY: help install remove build view
