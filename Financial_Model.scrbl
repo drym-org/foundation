@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@title{Financial Model}
+@title[#:style 'toc]{Financial Model}
 
 The ABE financial model is best understood from the perspectives of the different functional groups that interact with it. These include project contributors, users, investors and analysts.
 
