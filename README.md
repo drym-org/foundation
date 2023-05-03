@@ -7,6 +7,8 @@ This repository contains founding documents for Attribution-Based Economics. The
 3. The Financial Model, which describes the financial basis of the system and how payments and revenues are to be channeled.
 4. The Declaration of Non-Ownership, which sheds the idea of ownership as it is an obstruction to fair value recognition in intangible works.
 
+For rendered documents click the above blue badge.
+
 # Supporting this Project
 
 Please make any financial contributions in one of the following ways:
