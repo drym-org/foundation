@@ -20,7 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@master
       - name: Install Racket
-        uses: Bogdanp/setup-racket@v1.8.1
+        uses: Bogdanp/setup-racket@v1.10
         with:
           architecture: 'x64'
           distribution: 'full'
@@ -31,7 +31,7 @@ jobs:
       - name: Build docs for hosting
         run: make build
       - name: Push to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.3.3
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
         with:
           folder: output
           branch: gh-pages
