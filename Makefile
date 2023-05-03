@@ -4,6 +4,7 @@ PACKAGE-NAME=foundation
 
 help:
 	@echo "install - Install dependencies for building the documentation"
+	@echo "remove - Uninstall package"
 	@echo "build - Build self-contained documentation that could be hosted somewhere"
 	@echo "view - view documentation in a browser"
 
@@ -19,4 +20,4 @@ build:
 view: build
 	open finance/output/index.html
 
-.PHONY: help install build view
+.PHONY: help install remove build view
