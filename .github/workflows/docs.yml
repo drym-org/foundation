@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'finance/**'
+      - '**.scrbl'
       - '.github/workflows/docs.yml'
 
 defaults:
