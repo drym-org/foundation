@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@title{Attribution-Based Economics}
+@title[#:style 'no-sidebar]{Attribution-Based Economics}
 
 @table-of-contents[]
 
