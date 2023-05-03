@@ -2,3 +2,8 @@
 *~
 *.sw?
 
+# docs output
+*.html
+*.css
+*.js
+MathJax
