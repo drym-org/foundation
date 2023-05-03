@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@title{Foundation for Attribution-Based Economics}
+@title{Attribution-Based Economics}
 
 @table-of-contents[]
 
