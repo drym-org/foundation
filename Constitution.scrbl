@@ -39,21 +39,25 @@ Toward these aims, we agree to employ the conventions described herein.
 
 @item{Contributors must be notified when amounts owed to them are eligible to be paid.}
 
+@;{TODO: this may fall under the purview of DIA-on-DIA setting the price of DIA}
 @item{Work done towards attribution shall be entitled to 5% of the value of the project, incentivizing participation in fairly and comprehensively identifying and recognizing antecedents.}
 
+@;{TODO: we are currently not able to meet this and have agreed to do it at the cadence of DIA meetings, i.e. approximately on a quarterly basis. But since we don't know what the right thing is in the long term, leaving this as is for now.}
 @item{When voluntary payments are made to the project, contributors should be paid their full outstanding balance biweekly (i.e. every other week) on a designated day of the week. If these payments have not been initiated within 3 days of the designated day, the project will be considered to be in default.}
 
 @item{This constitution and other founding documents may be amended through a collective process subject to agreement.}
 
-@item{A congress to conduct DIA must be solicited for a project following ABE within 30 days of its receiving its first payment, and must be completed within one quarter (three months). This may be a congress organized specifically for the project, or it may be a congress already planned for which the project may be added to the docket. The results of this initial congress apply to any payments already received by the project up to that point, in addition to subsequent payments.}
+@item{A congress to conduct DIA must be solicited for a project and the participants finalized within 30 days of the project's receiving its first payment, and must be completed within one quarter (three months) from the date of first payment. The results of this initial congress apply to any payments already received by the project up to that point, in addition to subsequent payments.}
 
-@item{There must be at least three people present at a DIA congress.}
+@item{At least three people must participate in a DIA congress.}
 
-@item{For each project on the docket at a DIA congress, if less than a third of attendees present are unaffiliated with it, then that project is ineligible to be considered. At least one person affiliated with the project must be present or, if none will be present, the project members must endorse consideration of their project at the congress.}
+@item{At least a third of DIA participants must be unaffiliated with the project, or the project is ineligible to be considered.}
 
-@item{Any gathering that meets these requirements for a congress may be considered a congress and may conduct official deliberations upon invoking this constitution.}
+@item{At least one person affiliated with the project must participate in DIA, or, if none will be present, the project members must endorse consideration of their project by the congress.}
 
-@item{If there are prior resolutions that anyone believes need to be reviewed, they should submit their notes for inclusion in the docket entry for that project at the next congress.}
+@item{Any gathering that meets these requirements may be considered a DIA congress and may conduct official deliberations upon invoking this constitution.}
+
+@item{If there are prior resolutions that anyone believes need to be reviewed, they should submit their notes for inclusion in the docket for the next meeting of the congress.}
 
 @item{For any prior resolution identified for review in advance of the congress, an effort should be made to invite the participants to that resolution to attend the congress. Their participation is not mandatory.}
 
@@ -61,6 +65,6 @@ Toward these aims, we agree to employ the conventions described herein.
 
 @item{A project must be appraised at an ABE congress at least once a quarter. In the interim, nontrivial contributions to the project should be accompanied by relative appraisal and renormalization to arrive at a provisional appraisal. These should be honored until DIA is conducted.}
 
-@item{The docket for a congress must be finalized at least two weeks in advance of the congress, to leave sufficient time for attendees to learn about the projects being appraised and come prepared. Notes on docket items, along with any other supporting materials, may continue to be added until the congress is held.}
+@item{The docket for a congress must be finalized at least two weeks in advance of the initial meeting of the congress, to leave sufficient time for attendees to learn about the project being appraised and come prepared. Notes on docket items, along with any other supporting materials, may continue to be added as part of deliberations until the conclusion of the round of DIA.}
 
 ]
