@@ -29,7 +29,7 @@ Toward these aims, we agree to employ the conventions described herein.
 
 @item{Trustees must similarly record all payments made to contributors, within 7 days of making the payment, to ensure that reported balances are kept current.}
 
-@item{Projects that are in default are no longer eligible to receive payments from other ABE projects ("attributive revenue") until the issues are resolved.}
+@item{Projects that are in default are no longer eligible to receive payments from other ABE projects ("attributive revenue") until the issues are resolved (although their entitlement remains unaffected at such a time, as before).}
 
 @item{For projects that are in default, DIA representatives must nominate new trustees within one week of the project's defaulting. Once the new trustees are appointed, they are bound by the guidelines for trustees described herein.}
 
