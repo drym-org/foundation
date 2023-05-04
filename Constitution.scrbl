@@ -37,8 +37,6 @@ Toward these aims, we agree to employ the conventions described herein.
 
 @item{Contributors must be notified when amounts owed to them are eligible to be paid.}
 
-@item{Projects in default may be negatively attributed, so that some portion of the payments owed to them will be fairly reinvested.}
-
 @item{Maintainers must record all payments made to contributors in a payouts folder, within 7 days of making the payment, to ensure that reported balances are kept current.}
 
 @item{Work done towards attribution shall be entitled to 5% of the value of the project, incentivizing participation in fairly and comprehensively identifying and recognizing antecedents.}
