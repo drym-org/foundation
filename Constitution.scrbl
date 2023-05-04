@@ -27,6 +27,8 @@ Toward these aims, we agree to employ the conventions described herein.
 
 @item{Payments to projects must be recorded in the order they are received so that they are accounted using the correct current values of attributions, valuation and price. In order to ensure this, a single person shall be put in charge of recording payments.}
 
+@item{Trustees must similarly record all payments made to contributors, within 7 days of making the payment, to ensure that reported balances are kept current.}
+
 @item{Projects that are in default are no longer eligible to receive payments from other ABE projects ("attributive revenue") until the issues are resolved.}
 
 @item{For projects that are in default, DIA representatives must nominate new trustees within one week of the project's defaulting. Once the new trustees are appointed, they are bound by the guidelines for trustees described herein.}
@@ -36,8 +38,6 @@ Toward these aims, we agree to employ the conventions described herein.
 @item{Payments owed to attributive stakeholders ("contributors") are immutable (except via backpropagation) in the sense that they are considered to be facts. If a contributor cannot be paid for any reason, the balance owed to them may be reallocated in accordance with the guidelines in the financial model, but the contributor's entitlement remains unaffected and is eligible to be fulfilled at a future date as soon as it becomes possible to do so.}
 
 @item{Contributors must be notified when amounts owed to them are eligible to be paid.}
-
-@item{Maintainers must record all payments made to contributors in a payouts folder, within 7 days of making the payment, to ensure that reported balances are kept current.}
 
 @item{Work done towards attribution shall be entitled to 5% of the value of the project, incentivizing participation in fairly and comprehensively identifying and recognizing antecedents.}
 
