@@ -19,13 +19,17 @@ Toward these aims, we agree to employ the conventions described herein.
 
 @item{The project shall provide a channel whereby reports of antecedents and other related work are acknowledged and reported to the corresponding DIA project. These shall inform the process of DIA.}
 
-@item{Repository maintainers are responsible for recording all payments made to the project in a payments folder, within 3 days of the payment being received.}
+@item{The process of DIA must appoint at least one trustee who will be responsible for receiving payments on behalf of the project and paying contributors according to ABE guidelines.}
 
-@item{Those who contribute to a project should ensure that their payment is reflected in the payments folder and could submit the necessary change for consideration, themselves. If the payment does not appear there in the allotted time, they should create an issue tagged "unrecorded payment," and repository maintainers have one week to resolve it. If it is unresolved in this time, the project will be considered to be "in default."}
+@item{Trustees are responsible for publicly and visibly recording all payments made to the project, in the agreed-upon accounting forum, within 3 days of the payment being received.}
+
+@item{Those who contribute financially to a project should ensure that their payment is reflected in the project's accounting in a timely manner. If the payment does not appear there in the allotted time, they should report the unrecorded payment, and trustees have one week to resolve it. If it is unresolved in this time, the project will be considered to be "in default."}
 
 @item{Payments to projects must be recorded in the order they are received so that they are accounted using the correct current values of attributions, valuation and price. In order to ensure this, a single person shall be put in charge of recording payments.}
 
-@item{Projects that are in default are no longer eligible to receive payments from other ABE projects until the issues are resolved.}
+@item{Projects that are in default are no longer eligible to receive payments from other ABE projects ("attributive revenue") until the issues are resolved.}
+
+@item{For projects that are in default, DIA representatives must nominate new trustees within one week of the project's defaulting. Once the new trustees are appointed, they are bound by the guidelines for trustees described herein.}
 
 @item{Upstream projects are only eligible to receive payments owed to them once they adopt ABE, upon completion of DIA.}
 
