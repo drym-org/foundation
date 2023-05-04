@@ -23,7 +23,7 @@
 
 @section{For congress participants}
 
-@subsection{1 Analyze}
+@subsection[#:style 'unnumbered]{1 Analyze}
 
 @itemlist[
 #:style 'ordered
@@ -38,7 +38,7 @@
 
 ]
 
-@subsection{2 Agree on Analysis}
+@subsection[#:style 'unnumbered]{2 Agree on Analysis}
 
 @itemlist[
 #:style 'ordered
@@ -51,7 +51,7 @@
 
 ]
 
-@subsection{3 Identify Antecedents}
+@subsection[#:style 'unnumbered]{3 Identify Antecedents}
 
 @itemlist[
 #:style 'ordered
@@ -64,7 +64,7 @@
 
 ]
 
-@subsection{4 Appraise}
+@subsection[#:style 'unnumbered]{4 Appraise}
 
 @itemlist[
 #:style 'ordered
@@ -79,7 +79,7 @@
 
 ]
 
-@subsection{5 Agree on Appraisals}
+@subsection[#:style 'unnumbered]{5 Agree on Appraisals}
 
 @itemlist[
 #:style 'ordered
@@ -92,11 +92,11 @@
 
 ]
 
-@subsection{6 Reconcile the Appraisals}
+@subsection[#:style 'unnumbered]{6 Reconcile the Appraisals}
 
 Discuss to assign weights to each appraisal tree. Consider using the 1-N-N² rule -- that is, if labor is worth K, then capital is worth 1/N × K, and ideas are worth 1/N² × K, for some "scaling factor" N that you agree on. The rationale is that we want labor, capital and ideas to be equally valuable when aggregated over all projects. Since labor is the least portable while ideas are the most portable, this rule models the fluidity of these categories as, roughly, "for every project you directly work on, N projects will use your work, and N² projects will be inspired by it." Note, nevertheless, that the ideas analysis described elsewhere in this document is not in terms of "inspiration" (implying causation) but only similarity.
 
-@subsection{7 Deanonymize and Tally}
+@subsection[#:style 'unnumbered]{7 Deanonymize and Tally}
 
 @itemlist[
 #:style 'ordered
