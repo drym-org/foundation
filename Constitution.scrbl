@@ -4,20 +4,20 @@
 
 @bold{This document is to be considered a DRAFT until it is formally ratified.}
 
-We seek to put in place a new economic system achieving the goals of fair recognition of value and fair empowerment, efficiency in the use of resources both tangible and intangle, and alignment of interests at every level of social interaction, in order to achieve a stable, scalable, creative, peaceful, and kind existence.
+We seek to put in place a new economic system achieving the goals of fair recognition of value and fair empowerment, efficiency in the use of resources both tangible and intangle, and alignment of interests at every level of social interaction, in order to achieve a stable, scalable, creative, peaceful, and kind coexistence.
 
 Toward these aims, we agree to employ the conventions described herein.
 
 @itemlist[
 #:style 'ordered
 
-@item{Members of the public (which may include project contributors) will engage in the process of Dialectical Inheritance Attribution to appraise the project, following any procedures that are deemed appropriate and fair that meet the twin goals of backward-looking fairness and forward-looking empowerment.}
+@item{Members of the public will engage in the process of Dialectical Inheritance Attribution to appraise work done, where the scope may be bounded to projects or repositories, following any procedures that are deemed appropriate and fair that meet the twin goals of backward-looking fairness and forward-looking empowerment.}
 
-@item{The goal of DIA is to produce a file ATTRIBUTIONS.txt representing the proportions of aggregate historical value in the repository contributed by each person. These proportions must total to 100%. Alongside this, the process should also produce a file ATTRIBUTIONS-RATIONALE.txt that contains a log of the rationale and procedures followed, including referenced clauses in the founding documents where possible. This allows the possibility of revision in case of errors or in the interests of "backpropagation" of future standards (elaborated in the attribution model).}
+@item{The goal of DIA is to produce a table of "attributions" representing the proportions of aggregate historical value in the project contributed by each person. These proportions must total to 100%. Alongside this, the process should also produce a record of the rationale and procedures followed, including referenced clauses in the founding documents where possible. This allows the possibility of revision in case of errors or in the interests of "backpropagation" of future standards (elaborated in the attribution model).}
 
-@item{In addition, DIA must produce VALUATION.txt and PRICE.txt that contain the appraisal of total value in the project and a fair market price, respectively. These too should have accompanying VALUATION-RATIONALE.txt and PRICE-RATIONALE.txt files explaining the rationale and procedures followed and any referenced clauses in the founding documents.}
+@item{In addition, DIA must produce an assessed valuation and price that contain the appraisal of total value in the project and a fair market price, respectively. These too should have accompanying rationales explaining the procedures followed and any referenced clauses in the founding documents.}
 
-@item{The repo shall maintain an issue whereby reports of antecedents and other related work are solicited. These shall inform the process of DIA.}
+@item{The project shall provide a channel whereby reports of antecedents and other related work are acknowledged and reported to the corresponding DIA project. These shall inform the process of DIA.}
 
 @item{Repository maintainers are responsible for recording all payments made to the project in a payments folder, within 3 days of the payment being received.}
 
