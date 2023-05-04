@@ -19,7 +19,7 @@ Toward these aims, we agree to employ the conventions described herein.
 
 @item{The project shall provide a channel whereby reports of antecedents and other related work are acknowledged and reported to the corresponding DIA project. These shall inform the process of DIA.}
 
-@item{The process of DIA must appoint at least one trustee who will be responsible for receiving payments on behalf of the project and paying contributors according to ABE guidelines.}
+@item{The process of DIA must appoint at least one trustee who will be responsible for receiving payments on behalf of the project and for paying contributors according to ABE guidelines.}
 
 @item{Trustees are responsible for publicly and visibly recording all payments made to the project, in the agreed-upon accounting forum, within 3 days of the payment being received.}
 
