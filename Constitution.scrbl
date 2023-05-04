@@ -33,9 +33,7 @@ Toward these aims, we agree to employ the conventions described herein.
 
 @item{Upstream projects are only eligible to receive payments owed to them once they adopt ABE, upon completion of DIA.}
 
-@item{Payments held on behalf of upstream projects shall be fairly reinvested in the current project -- that is, according to the present attributions -- until the upstream share reaches zero.}
-
-@item{Payments owed to upstream projects are immutable in the sense that they are considered to be facts. If a project cannot be paid for any reason, the balance owed to them will be reinvested, but the project's entitlement remains unaffected and is eligible to be fulfilled by the system at a future date as soon as it becomes possible to do so.}
+@item{Payments owed to attributive stakeholders ("contributors") are immutable (except via backpropagation) in the sense that they are considered to be facts. If a contributor cannot be paid for any reason, the balance owed to them may be reallocated in accordance with the guidelines in the financial model, but the contributor's entitlement remains unaffected and is eligible to be fulfilled at a future date as soon as it becomes possible to do so.}
 
 @item{Contributors must be notified when amounts owed to them are eligible to be paid.}
 
