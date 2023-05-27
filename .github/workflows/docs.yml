@@ -36,4 +36,3 @@ jobs:
           folder: output
           branch: gh-pages
           clean: true
-          clean-exclude: benchmarks
